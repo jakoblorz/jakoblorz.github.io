@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jakoblorz.de</title>
-    <link>http://jakoblorz.de/</link>
-    <description>Recent content on jakoblorz.de</description>
+    <title>Series on jakoblorz.de</title>
+    <link>http://jakoblorz.de/series/</link>
+    <description>Recent content in Series on jakoblorz.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2019 Jakob Lorz</copyright>
     
-	<atom:link href="http://jakoblorz.de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jakoblorz.de/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
