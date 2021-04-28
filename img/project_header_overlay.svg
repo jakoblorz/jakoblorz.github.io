@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(-0.222145,-0.244878,-0.24887,0.225767,1021.19,655.032)">
+        <clipPath id="_clip1">
+            <path d="M0,500L500,500L500,-0L-0,-0.001L0,500Z" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <path d="M531.36,311.98L311.98,311.98L311.98,520.38L188.02,520.38L188.02,311.98L-31.36,311.98L-31.36,188.02L188.02,188.02L188.02,-20.38L311.98,-20.38L311.98,188.02L531.36,188.02L531.36,311.98Z" style="fill:rgb(27,27,27);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g transform="matrix(-0.108695,-0.119818,-0.126813,0.11504,1237.78,553.261)">
+        <clipPath id="_clip2">
+            <path d="M0,500L500,500L500,-0L-0,-0.001L0,500Z" clip-rule="nonzero"/>
+        </clipPath>
+        <g clip-path="url(#_clip2)">
+            <path d="M531.36,311.98L311.98,311.98L311.98,520.38L188.02,520.38L188.02,311.98L-31.36,311.98L-31.36,188.02L188.02,188.02L188.02,-20.38L311.98,-20.38L311.98,188.02L531.36,188.02L531.36,311.98Z" style="fill:rgb(27,27,27);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g transform="matrix(-1.2009,0.00309697,0.00302736,1.17391,1137.96,292.002)">
+        <path d="M67.2,0C30.2,0 0,30.2 0,67.3C0,104.3 30.2,134.5 67.2,134.5C104.3,134.5 134.4,104.3 134.4,67.3C134.5,30.2 104.3,0 67.2,0ZM67.2,97.5C50.6,97.5 37,83.9 37,67.3C37,50.7 50.6,37.1 67.2,37.1C83.8,37.1 97.4,50.7 97.4,67.3C97.4,83.9 83.9,97.5 67.2,97.5Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(-0.600451,0.00154848,0.00151368,0.586956,1160.28,610.677)">
+        <path d="M67.2,0C30.2,0 0,30.2 0,67.3C0,104.3 30.2,134.5 67.2,134.5C104.3,134.5 134.4,104.3 134.4,67.3C134.5,30.2 104.3,0 67.2,0ZM67.2,97.5C50.6,97.5 37,83.9 37,67.3C37,50.7 50.6,37.1 67.2,37.1C83.8,37.1 97.4,50.7 97.4,67.3C97.4,83.9 83.9,97.5 67.2,97.5Z" style="fill-rule:nonzero;"/>
+    </g>
+</svg>

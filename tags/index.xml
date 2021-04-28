@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on jakoblorz.de</title>
-    <link>http://jakoblorz.de/tags/</link>
-    <description>Recent content in Tags on jakoblorz.de</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2019 Jakob Lorz</copyright>
-    
-	<atom:link href="http://jakoblorz.de/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on jakoblorz.de</title><link>http://jakoblorz.de/tags/</link><description>Recent content in Tags on jakoblorz.de</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; Copyright 2021 Jakob Lorz</copyright><atom:link href="http://jakoblorz.de/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
